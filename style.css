@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  background-image: url(/Pengalaman-dan-Cv/img/background\(8\).jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+section {
+  padding-top: 4rem;
+  margin-bottom: 100px;
+}
+.p {
+  text-align: left;
+  text-align: right;
+}
